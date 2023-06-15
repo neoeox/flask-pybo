@@ -78,7 +78,6 @@ def add(a, b):
 * git commit -m "커밋 코멘트" 명령 수행하기
 * git status
 * git push -u origin master 명령 수행하기
-* git status
 
 
 
