@@ -68,3 +68,18 @@ def add(a, b):
 마크다운 설치
 (myproject) C:\dev_py\projects\myproject>pip install flask-markdown
 ```
+
+## 작업한 내용을 원격 저장소에 저장하는 순서 간단 정리
+* 프로그램 변경 작업하기
+* git remote -v
+* git status 
+* git add <파일명> 또는 git add * 명령 수행하기
+* git status
+* git commit -m "커밋 코멘트" 명령 수행하기
+* git status
+* git push -u origin master 명령 수행하기
+* git status
+
+
+
+
