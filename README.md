@@ -5,7 +5,7 @@
 
 
 ## 실행 flask run
-- Anaconda Prompt 관리자 권한으로 실행
+- Anaconda Prompt 관리자 권한으로 실행(pyCharm 터미널에서는 실행 안됨)
 - (base) C:\Users\PC2>myproject
 - (myproject) C:\dev_py\projects\myproject>flask run
 
