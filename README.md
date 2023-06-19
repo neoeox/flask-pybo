@@ -79,6 +79,13 @@ def add(a, b):
 * git status
 * git push -u origin master 명령 수행하기
 
+## aws에서 flask 실행
+* 가상환경 진입
+* ubuntu@devjon:~$ myproject
+* 플라스크 실행은 ~/projects/myproject에서 해야함
+* (myproject) ubuntu@devjon:~/projects/myproject$ flask run --host=0.0.0.0
+
+
 
 
 
